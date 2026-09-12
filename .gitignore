@@ -6,6 +6,7 @@ Backup/
 *.toe.toc
 *.tox.dir/
 *.tox.toc
+handtracking_filter.toe
 
 # Python scratch (Textport experiments, helper scripts).
 __pycache__/
