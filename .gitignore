@@ -1,0 +1,17 @@
+# TouchDesigner autosave history. Git already tracks history, so this is just noise.
+Backup/
+
+# Leftovers from unpacking a .toe/.tox with toeexpand for inspection.
+*.toe.dir/
+*.toe.toc
+*.tox.dir/
+*.tox.toc
+
+# Python scratch (Textport experiments, helper scripts).
+__pycache__/
+*.pyc
+
+# OS cruft.
+Thumbs.db
+desktop.ini
+.DS_Store
