@@ -1,10 +1,10 @@
 # Hand-Held Noise Portal
 
 A real-time video filter built in TouchDesigner. I was just messing around in TD, and 
-ended up with this cool looking You hold up both hands, and the
+ended up with this cool looking filter. You hold up both hands, and the
 rectangle stretched between your fingertips becomes a portal. Inside it, the
-camera image is repainted in colours pulled from a slowly drifting cloud of
-noise, so it looks like the picture has been dipped in oil-slick paint that
+camera image is repainted in a glitchy, ever-changing, array of colors,
+so it looks like the picture has been dipped in oil-slick paint that
 never stops moving. Outside the rectangle, the video is exactly what the camera
 sees.
 
