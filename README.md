@@ -8,10 +8,6 @@ so it looks like the picture has been dipped in oil-slick paint that
 never stops moving. Outside the rectangle, the video is exactly what the camera
 sees.
 
-<!-- Add a GIF or screenshot here -->
-
----
-
 ## What you are looking at
 
 Two things are happening at once.
