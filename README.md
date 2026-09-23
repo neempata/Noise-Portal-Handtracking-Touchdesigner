@@ -158,7 +158,7 @@ select the `MediaPipe` component, turn **Enable External .tox** back on, and
 point it at `../mediapipe/toxes/MediaPipe.tox`. The project then saves at
 around 20 KB and loads the component from that file instead.
 
-## Challenges and wh
+## Challenges and what 
 
 **Masking before the filter produced flashing colours.** The first version
 combined the panel with the video, then ran the lookup. Outside the panel the
