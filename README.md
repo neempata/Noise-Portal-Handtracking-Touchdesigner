@@ -10,7 +10,7 @@ sees.
 
 ## What you are looking at
 
-Two things are happenin
+Two
 **Your hands define a panel.** Hand tracking finds the tip of each thumb and
 each index finger. Those four points become the four corners of a
 quadrilateral, so the panel stretches, skews and rotates as you move. The
